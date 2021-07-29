@@ -1,5 +1,11 @@
 # Olá, Bem-Vindo ao meu Github
 
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 - 🏬 Estudante de ciências da computação na Universidade Federal de Viçosa
 - 🔭 Atualmente estou trabalhando com desenvolvimento web
 - 🌱 Estou estudando Node com express e React
