@@ -1,5 +1,6 @@
 # Olá, Bem-Vindo ao meu Github
 
+- 🏬 Estudante de ciências da computação na Universidade Federal de Viçosa
 - 🔭 Atualmente estou trabalhando com desenvolvimento web
 - 🌱 Estou estudando Node com express e React
 
