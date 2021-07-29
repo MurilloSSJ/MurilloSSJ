@@ -29,3 +29,7 @@
   <img height="30" width="40" alt="logo Python" align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img height="30" width="40" alt="logo Wordpress" align="center" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 </div
+
+ ##
+ 
+ ![Snake animation](https://github.com/MurilloSSJ/MurilloSSJ/blob/output/github-contribution-grid-snake.svg)
