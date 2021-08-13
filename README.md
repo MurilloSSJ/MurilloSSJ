@@ -7,6 +7,8 @@
 - 🏬 Estudante de Ciência da Computação na Universidade Federal de Viçosa
 - 🔭 Atualmente estou trabalhando com desenvolvimento web
 - 🌱 Estudando Node com express e React
+- 🎏 Membro efetivo da SetApp, desenvolvendo projetos principalmente para Web.
+- 🎈 Iniciação científica no NESPeD, trabalhando com Data Science, e Machine Learning
 
 ##
 
