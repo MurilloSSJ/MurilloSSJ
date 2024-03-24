@@ -1,15 +1,11 @@
-# Olá, Bem-Vindo ao meu Github
+# Hello, welcome to my github
 
 <div align="center" width="50">
 
 </div>
 
-- 🏬 Estudante de Ciência da Computação na Universidade Federal de Viçosa
-- 🔭 Atualmente estou trabalhando com desenvolvimento web
-- 🌱 Estudando Node com express e React
-- 🎏 Membro efetivo da SetApp, desenvolvendo projetos principalmente para Web.
-- 🎈 Iniciação científica no NESPeD, trabalhando com Data Science, e Machine Learning
-
+- 🏬 Computer scient student in Universidade Federal de Viçosa
+- 🔭 Now, I work with data engineer.
 ##
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Stats**
@@ -37,26 +33,22 @@
   <img height="30" width="40" alt="logo Wordpress" align="center" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 </div>
  
- #### 👉 Front-end Development
+ #### 👉 Data Engineer Skills
 <div style="display:inline-block;">
-  <img height="30" width="40" alt="logo React" align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img height="30" width="40" alt="logo HTML5" align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" alt="logo CSS3" align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
- <img height="30" width="40" alt="logo Bootstrap" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img height="30" width="40" alt="logo Handlebars" align="center" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
-</div>
-
-#### 👉 Back-end Development
-<div style="display:inline-block;">
-  <img height="30" width="40" alt="logo Node" align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img height="30" width="40" alt="logo Express" align="center" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
- <img height="30" width="40" alt="logo Sequelize" align="center" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
+  <img height="30" width="40" alt="logo React" align="center" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
+  <img height="30" width="40" alt="logo HTML5" align="center" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img height="30" width="40" alt="logo CSS3" align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img height="30" width="40" alt="logo Bootstrap" align="center" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
+  <img height="30" width="40" alt="logo Handlebars" align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img height="30" width="40" alt="logo Handlebars" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
 #### 👉 Databases
 <div style="display:inline-block;">
   <img height="30" width="40" alt="logo MySQL" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img height="30" width="40" alt="logo Mongo" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img height="30" width="40" alt="logo Mongo" align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+ <img height="30" width="40" alt="logo Mongo" align="center" src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg">
 </div>
 
  ##
